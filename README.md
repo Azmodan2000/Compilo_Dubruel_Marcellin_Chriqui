@@ -17,7 +17,9 @@ compilateur partie string :
 	au rang indiqué. Le rang est déterminé comme en C ou Pyhton: le premier élément est d'indice 0, et ainsi de suite. 
 
 ###Float: 
-> Un float s'écrit avec une virgule. 
+> les float s’écrivent avec une virgule dans le code mais avec un point en entrée et en sortie.
+> les variables sont non typées.
+> on peut additionner deux entiers ensemble et deux floats ensemble mais pas un entier et un float.
 
 ###Typage dynamique: 
 > Une variable peut passer d'un type à l'autre au cours du code. Le code reconnait en continu le type de la variable (valable pour les compilos string et float) 
